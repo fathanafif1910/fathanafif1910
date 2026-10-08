@@ -72,14 +72,20 @@
 
 
 ## 📈 Aktivitas Kontribusi
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/fathanafif910)
-
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=fathanafif1910&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/fathanafif1910/fathanafif1910/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathanafif1910/fathanafif1910/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathanafif1910/fathanafif1910/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fathanafif1910/fathanafif1910/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
 
 ## 🤝 Mari Terhubung
 
