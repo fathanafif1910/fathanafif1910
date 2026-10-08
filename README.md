@@ -20,7 +20,6 @@
 - 🤝 Terbuka untuk kolaborasi di proyek **open source**
 - 💬 Tanyakan saya soal **JavaScript, Python, dan Web Development**
 - 📍 Berbasis di **Banda Aceh, Indonesia** · Terbuka untuk **remote**
-- ⚡ Fun fact: *tulis sesuatu yang unik tentang Anda*
 
 ---
 
