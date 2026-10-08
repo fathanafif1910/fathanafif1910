@@ -9,13 +9,6 @@
 
 **Membangun solusi digital yang bersih, cepat, dan berdampak.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fathan-afif-wildein-1a9548281)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fthnafifwldn@gmail.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fathanmpan)
-
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=2F81F7&style=flat-square)
-![Followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=2F81F7)
-
 </div>
 
 ---
@@ -70,7 +63,13 @@
 </picture>
 
 ###
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/31h7wpfxrzhsujk7nlvr2gu65vou">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h7wpfxrzhsujk7nlvr2gu65vou&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 ## 🤝 Mari Terhubung
 
 Saya senang berdiskusi tentang teknologi, kolaborasi, dan peluang baru. Jangan ragu untuk menyapa!
