@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Tentang Saya
 
-- 🔭 Saat ini mengerjakan **SavonSavonia.id, platform web E-commerce**
+- 🔭 Saat ini mengerjakan **Savonia.id, platform web E-commerce**
 - 🌱 Sedang mendalami **Cloud Architecture, System Design, dan AI**
 - 🤝 Terbuka untuk kolaborasi di proyek **open source**
 - 💬 Tanyakan saya soal **JavaScript, Python, dan Web Development**
