@@ -71,6 +71,31 @@
 
 ###
 ## 🤝 Mari Terhubung
+<div data-importer="socials" align="center">
+  <a href="https://discord.com/users/fathan_32859">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo" />
+  </a>
+  <a href="https://instagram.com/fathanafwn">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo" />
+  </a>
+  <a href="mailto:fthnafifwldn@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/fathan-afif-wildein-1a9548281">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo" />
+  </a>
+  <a href="https://open.spotify.com/user/31h7wpfxrzhsujk7nlvr2gu65vou">
+    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="22" alt="spotify logo" />
+  </a>
+  <a href="https://x.com/fathanmpan">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo" />
+  </a>
+  <a href="https://wa.me/628123456789">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="whatsapp logo" />
+  </a>
+</div>
+
+###
 
 Saya senang berdiskusi tentang teknologi, kolaborasi, dan peluang baru. Jangan ragu untuk menyapa!
 
